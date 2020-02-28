@@ -4,20 +4,26 @@ div {
     margin-top: 10px;
   }
       .image{
-          width:475px;
+          width:105%;
+          height:190px;
+          
+          
         }
         .background1{
           background-color:black;
           position:absolute;
+          top:190px;
+          width:105%;
         }
         .background2{
           background-color:grey;
           position:absolute;
-          left: 1150px;
+          left: 1180px;
           top: 198px;
           z-index: 1;
           width:8%;
           height:25px;
+          
         }
         .image2 {
           position:absolute;
@@ -50,4 +56,25 @@ div {
             z-index:1;
             width:2.8%;
             height:25px;
+        }
+        .background3 {
+          background-color:rgb(211,211,211);
+          position:absolute;
+          left:0px;
+          top:230px;
+          height:215px;
+          width:105%;
+        }
+        .add{
+          position:absolute;
+          z-index:1;
+          top:260px;
+          left:520px;
+          width:40%;
+        }
+        .car{
+          position:absolute;
+          top:475px;
+          left:365px;
+          width:60%;
         }
