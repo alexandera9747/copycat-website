@@ -1,4 +1,4 @@
-# copycat-website
+# Copycat-website Alexander Andria
 ## Click [here](https://224d157be11e447889313866f3648670.vfs.cloud9.us-west-2.amazonaws.com/_static/web-design/copycat-website/inder.html) for website link.   
 ## Click [here](https://docs.google.com/document/d/1goGoY9HDfj65j96w6HQDNpVhTazccxA-ehepEXYFOJE/edit) for google doc plan link. 
 
